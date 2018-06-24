@@ -2,7 +2,7 @@
 	"type": "dark",
 	"name": "Darcula theme for Elixir",
 	"colors": {
-		"editor.background": "#2b2b2b",
+		"editor.background": "#1b1818",
 		"editor.foreground": "#dfe2e5",
 		"editor.selectionBackground": "#1a414d",
 		"editor.lineHighlightBackground": "#323232",
@@ -76,7 +76,7 @@
 			"name": "Functions",
 			"scope": "entity.name.function, meta.require, support.function.any-method, support.function",
 			"settings": {
-				"foreground": "#ffc765"
+				"foreground": "#dda648"
 			}
 		},
 		{
@@ -793,7 +793,7 @@
 		{
 			"scope": "variable.other.constant.elixir",
 			"settings": {
-				"foreground": "#E6DA00",
+				"foreground": "#8a830c",
 				"fontStyle": "bold"
 			}
 		},
@@ -806,7 +806,7 @@
 		{
 			"scope": "parameter.variable.function.elixir",
 			"settings": {
-				"foreground": "#8547FF"
+				"foreground": "#6534c7"
 			}
 		},
 		{
@@ -830,14 +830,14 @@
 		{
 			"scope": "parameter.variable.function.elixir",
 			"settings": {
-				"foreground": "#E047FF"
+				"foreground": "#a131b8"
 			}
 		},
 		{
 			"scope": "keyword.control.elixir",
 			"settings": {
-				"foreground": "#CC7832",
-				"fontStyle": "bold italic"
+				"foreground": "#b96c2d",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -923,7 +923,7 @@
 		{
 			"scope": "entity.name.type.module.elixir",
 			"settings": {
-				"foreground": "#E6DA00",
+				"foreground": "#8a830c",
 				"fontStyle": "bold"
 			}
 		},
@@ -936,7 +936,7 @@
 		{
 			"scope": "punctuation.definition.variable.elixir",
 			"settings": {
-				"foreground": "#34e7de"
+				"foreground": "#1e7571"
 			}
 		}
 	]
