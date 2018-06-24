@@ -1,6 +1,6 @@
 {
 	"type": "dark",
-	"name": "Darcula theme for Elixir",
+	"name": "Darker than Darcula - elixir theme",
 	"colors": {
 		"editor.background": "#1b1818",
 		"editor.foreground": "#dfe2e5",
